@@ -6,7 +6,7 @@ If the number is odd, the collatz() should print and return 3*number+1.***
 
 ***👉 No.2 Then write a program that let's user type in an integer and that keeps calling collatz() on the number until the function returns the value 1.***
 
-##### Amazingly enough, this sequence actually works for any integer. Sooner or later, using this sequence you'll arrive at 1. Even mathematicians aren't sure why?. Your program is exploring what's called the collatz sequence. Sometimes called the "simplest impossible math problem".
+>##### Amazingly enough, this sequence actually works for any integer. Sooner or later, using this sequence you'll arrive at 1. Even mathematicians aren't sure why?. Your program is exploring what's called the collatz sequence. Sometimes called the "simplest impossible math problem".
 
 NOTE: Remember to convert the return value from input() to an integer with the int() function. Otherwise it will be a string value.
 
