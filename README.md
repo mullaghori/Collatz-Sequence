@@ -13,7 +13,8 @@ NOTE: Remember to convert the return value from input() to an integer with the i
 HINT: An integer number is even if number%2==0 and it's odd, if number%2==1.
 
 *👉 The output of this program could look something like this:
-Enter number: 3
+Enter number: 3*
+```
 10
 5
 16
@@ -21,6 +22,7 @@ Enter number: 3
 4
 2
 1
+``` 
 
 # INPUT-VALIDATION
 ***👉 No.3 Add try and except statements to the previous project detect, whether the user types in a non-integer string. Normally the int() function will raise a Value Error error, if it is passed a non-integer string,as in int('dummy'). 
