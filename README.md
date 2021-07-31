@@ -1,3 +1,6 @@
+>From the book: Automate the Boring Stuff with Python. Writer: Al Sweigart
+
+
 # COLLATZ-SEQUENCE
 It's a practice project for python beginners! 
 
